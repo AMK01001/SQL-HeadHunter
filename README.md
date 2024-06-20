@@ -2,22 +2,26 @@
 
 
 ## Оглавение
-[1. Описание проекта]()
+[1. Описание проекта](https://github.com/AMK01001/SQL-HeadHunter/tree/main?tab=readme-ov-file#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
 
-[2. Какой кейс решаем?]()
+[2. Какой кейс решаем?](https://github.com/AMK01001/SQL-HeadHunter/tree/main?tab=readme-ov-file#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)
 
-[3. Результаты]()
+[3. Результаты](https://github.com/AMK01001/SQL-HeadHunter/tree/main?tab=readme-ov-file#%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)
 
 ### Описание проекта 
 Проект: Анализ из вакансий hh.ru.
-:arrow up:[к оглавлению]()
+:arrow up:[к оглавлению](https://github.com/AMK01001/SQL-HeadHunter/tree/main?tab=readme-ov-file#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
 
 ### Какой кейс решаем?
 
 1.Юнит 3. Предварительный анализ данных
+
 2.Юнит 4. Детальный анализ вакансий
+
 3.Юнит 5. Анализ работодателей
+
 4.Юнит 6. Предметный анализ
+
 5.Общий вывод по проекту
 
 **Условия соревнования**:
@@ -39,9 +43,9 @@
 **Что практикуем**
 работу с данными и оформление отчетов с помощью средств python и SQL
 
-:arrow up:[к оглавлению]()
+:arrow up:[к оглавлению](https://github.com/AMK01001/SQL-HeadHunter/tree/main?tab=readme-ov-file#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)
 
 ### Результаты
-Ноутбук с выполненными заданиями и выводами()
+Ноутбук с выполненными заданиями и выводами(https://github.com/AMK01001/SQL-HeadHunter/blob/main/Project_2_%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
 
-:arrow up:[к оглавлению]()
+:arrow up:[к оглавлению](https://github.com/AMK01001/SQL-HeadHunter/tree/main?tab=readme-ov-file#%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)
